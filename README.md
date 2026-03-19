@@ -39,3 +39,4 @@ Following a strong foundation in **Software Testing**, I have prioritized the re
 ```bash
 ./mvnw test
 ```
+**The Application is accesible at http://localhost:8080/recommend?city=city_name**
